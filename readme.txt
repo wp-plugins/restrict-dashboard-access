@@ -11,7 +11,7 @@ Restrict dashboard access for users with edit post restriction.
 
 == Description == 
 
-After successful login, redirects user roles with edit post restriction(subscribers or custom created user roles with edit post restriction) to the site homepage.Hides the front end admin bar for all users and adds a login/logout link to the end of your site primary menu.
+After successful login, redirects user roles with edit post restriction(subscribers or custom created user roles with edit post restriction) to the site homepage.Hides the front end admin bar for all users and adds a login/logout link to the end of your site primary menu.You can style the loginout link.
 
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
 Visit [Developer Website](http://increasy.com)
