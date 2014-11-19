@@ -6,7 +6,7 @@ Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2
 
-Restrict dashboard access for users with edit post restriction.
+Restrict dashboard access for users with edit post restriction.Keeps those who can't write or edit content out of your admin area.
 
 
 == Description == 
